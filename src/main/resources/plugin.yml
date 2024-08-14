@@ -1,0 +1,6 @@
+name: EntityHaven
+version: '1.0'
+main: com.github._1mag1n33dev.entityHaven.EntityHaven
+api-version: '1.18'
+load: STARTUP
+authors: [ 1mag1n33dev ]
